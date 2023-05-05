@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<item_list>
+	<item itemID="1">
+		<item_name>item1</item_name>
+		<date_received>2023-1-19</date_received>
+		<date_sold>2023-1-30</date_sold>
+		<seller>dakota industries</seller>
+		<value>4</value>
+	</item>
+	<item itemID="2">
+		<item_name>item2</item_name>
+		<date_received>2023-2-2</date_received>
+		<date_sold>2023-2-7</date_sold>
+		<seller>dakota industries</seller>
+		<value>18</value>
+	</item>
+	<item itemID="3">
+		<item_name>item3</item_name>
+		<date_received>2023-2-15</date_received>
+		<date_sold>2023-2-24</date_sold>
+		<seller>dakota industries</seller>
+		<value>23</value>
+	</item>
+	<item itemID="4">
+		<item_name>item4</item_name>
+		<date_received>2023-2-27</date_received>
+		<date_sold>2023-3-7</date_sold>
+		<seller>dakota industries</seller>
+		<value>11</value>
+	</item>
+	<item itemID="5">
+		<item_name>item5</item_name>
+		<date_received>2023-3-15</date_received>
+		<date_sold>2023-3-20</date_sold>
+		<seller>dakota industries</seller>
+		<value>17</value>
+	</item>
+	<item itemID="6">
+		<item_name>item6</item_name>
+		<date_received>2023-3-22</date_received>
+		<date_sold>2023-3-29</date_sold>
+		<seller>dakota industries</seller>
+		<value>24</value>
+	</item>
+	<item itemID="7">
+		<item_name>item7</item_name>
+		<date_received>2023-4-1</date_received>
+		<date_sold>2023-4-5</date_sold>
+		<seller>dakota industries</seller>
+		<value>15</value>
+	</item>
+	<item itemID="8">
+		<item_name>item8</item_name>
+		<date_received>2023-4-8</date_received>
+		<date_sold>2023-4-11</date_sold>
+		<seller>dakota industries</seller>
+		<value>19</value>
+	</item>
+	<item itemID="9">
+		<item_name>item9</item_name>
+		<date_received>2023-4-14</date_received>
+		<date_sold>2023-4-23</date_sold>
+		<seller>dakota industries</seller>
+		<value>12</value>
+	</item>
+	<item itemID="10">
+		<item_name>item10</item_name>
+		<date_received>2023-4-17</date_received>
+		<date_sold>2023-4-28</date_sold>
+		<seller>dakota industries</seller>
+		<value>26</value>
+	</item>
+</item_list>
